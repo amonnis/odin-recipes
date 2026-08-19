@@ -1,0 +1,33 @@
+body {
+  background: #E3F2E8;
+  font-family: "Times New Roman", Tahoma, Arial;
+  color: #0A1F10;
+}
+
+.title {
+  background: #F0FAF3;
+  text-align: center;
+  margin:15px auto;
+  box-sizing: border-box;
+  padding: 50;
+}
+
+ul {
+  margin: 10px 180px; 
+  display:inline-block;
+}
+li {
+  display: inline-block;
+  padding: 15px 5px;
+  background:#F0FAF3;
+  margin: 0 auto;
+  text-align: center;
+}
+
+a {
+  color: #0A1F10;
+}
+
+a:hover {
+  color: #2D8B48;
+}
